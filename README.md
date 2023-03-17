@@ -21,8 +21,7 @@
 </div></br>
 
 ![Matheus Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusCodeCruz&show_icons=true&theme=tokyonight)
-
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCodeCruz&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div><img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCodeCruz&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 
 
 
