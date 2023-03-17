@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, EU sou Matheus da Cruz 👋
+💀 - Voce só descobre o quão forte é, quando sua única opçõa é ser forte!<br/>
+💻 - Residente Serratec 2023.1<br/>
+🔥 - Estudando Java / Javascript<br/>
 
 
 
